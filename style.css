@@ -1,0 +1,17 @@
+body { background: url(фон1.png) no-repeat;
+		background-attachment: fixed; 
+		background-size:100%;
+		font-family: font-family: Roboto Condensed;
+		font-size: 30px;
+		color: #8B4513;
+	    text-shadow: 2px 2px 3px #F5DEB3;}
+.taison{
+	    margin-left: 50%;
+	    margin-top: 5%;
+	    font-size: 50px;
+	    }
+.balumba{
+	 margin-left: 23%;
+	    margin-top: 12%;
+	    font-size: 50px;}
+

@@ -1,0 +1,20 @@
+body { background: url(ajy.png) no-repeat;
+		background-attachment: fixed; 
+
+		font-family: font-family: Roboto Condensed;
+		font-size: 30px;
+		color: #8B4513;
+	    text-shadow: 2px 2px 3px #F5DEB3;}
+
+.photo{
+	text-align: center;
+	margin-top: 3%;
+}
+
+.another{
+	margin-left: 40%;
+}
+.balu{
+	text-align: left;
+	margin-top: -19%;
+}
